@@ -24,7 +24,7 @@
 
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=satyam-sharma&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-sharma&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-satyam697&layout=compact&theme=dark)
 
 ---
 
