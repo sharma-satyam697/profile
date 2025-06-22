@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Satyam Sharma
-### 🚀 AI Developer | 🧠 ML Enthusiast | 🧑‍💻 Python Automator
+### 🚀 AI Developer 
 
 - 🔭 Currently building intelligent apps with FastAPI, LLMs, and real-time data pipelines
 - 🌱 Learning advanced system design, microservices, and scalable AI
@@ -23,7 +23,6 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=satyam-sharma&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharma-satyam697&layout=compact&theme=dark)
 
 ---
