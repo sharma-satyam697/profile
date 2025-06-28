@@ -1,6 +1,9 @@
 # 👋 Hi, I’m Satyam Sharma
 ### 🚀 AI Developer 
 
+![App Screenshot](./assets/portfolio.png)
+
+
 - 🔭 Currently building intelligent apps with FastAPI, LLMs, and real-time data pipelines
 - 🌱 Learning advanced system design, microservices, and scalable AI
 - 💬 Ask me about Python, Docker, FastAPI, LLMs, and end-to-end product dev
@@ -30,4 +33,6 @@
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/satyamsharma61541425b)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=github)](https://sharma-satyam697.github.io/Portfolio/)
+
+
 
