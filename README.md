@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Satyam Sharma
 ### 🚀 AI Developer 
 
-![App Screenshot](./assets/portfolio.png)
-
 
 - 🔭 Currently building intelligent apps with FastAPI, LLMs, and real-time data pipelines
 - 🌱 Learning advanced system design, microservices, and scalable AI
