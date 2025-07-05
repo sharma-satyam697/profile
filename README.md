@@ -30,7 +30,7 @@
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/satyamsharma61541425b)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=github)](https://sharma-satyam697.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat&logo=github)](https://satyamaidev.netlify.app/)
 
 
 
